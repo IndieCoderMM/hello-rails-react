@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  # root "articles#index"
+  root 'root#index'
 
   get '/random_greeting', to: 'greetings#random_greeting'
 end

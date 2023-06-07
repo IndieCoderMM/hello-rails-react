@@ -92,9 +92,23 @@ To load the sample data, run:
 rails db:seed
 ```
 
+### 📦 Build
+
+Build the front-end assets with:
+
+```sh
+npm run build
+```
+
+You can also set it to *watch mode* which automatically build after every changes. To start the *watch mode*, use:
+
+```sh
+npm run watch
+```
+
 ### 💻 Usage
 
-To run the development server, execute the following command:
+After building the assets, run the development server with the following command:
 
 ```sh
 rails server

@@ -10,6 +10,7 @@
     - [📂 Setup](#-setup)
     - [📥 Installation](#-installation)
     - [💾 Database](#-database)
+    - [📦 Build](#-build)
     - [💻 Usage](#-usage)
   - [👨‍🚀 Author  ](#-author--)
   - [🎯 Future Features  ](#-future-features--)
